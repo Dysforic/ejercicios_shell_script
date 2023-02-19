@@ -1,5 +1,5 @@
 #!/bin/bash
-#Se le pasan como parámetros dos números enteros y el programa me debe decir qué númeor es mayor
+#Se le pasan como parámetros dos números enteros y el programa me debe decir qué número es mayor
 
 	read -p "Introduce el primer número: " num1
 
