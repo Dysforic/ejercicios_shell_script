@@ -10,5 +10,5 @@
 	elif [[ $num2 -gt $num1 ]]; then
 		echo "El $num2 es más grande que $num1"
 	else
-		echo "Los números són iguales"
+		echo "Los números son iguales"
 	fi 
