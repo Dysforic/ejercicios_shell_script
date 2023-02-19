@@ -47,6 +47,6 @@
     
 else
 
-    echo " El parametro introducido no puede ser nulo "
+    echo " El parámetro introducido no puede ser nulo "
     
 fi
