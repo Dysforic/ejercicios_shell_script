@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Realiza un script que indique si el fichero pasado por párametro
+# Realiza un script que indique si el fichero pasado por parámetro
 # existe o no existe. Además debe indicar se si trata de un
 # archivo regular o un directorio
 
