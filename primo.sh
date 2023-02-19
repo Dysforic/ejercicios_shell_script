@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script que te dice si un número es primo o no
-# Hay que introducir el numero que desees comprobar de la siguiente manera:
+# Hay que introducir el número que desees comprobar de la siguiente manera:
 
 	# ./primo.sh "número"
 
@@ -13,7 +13,7 @@
 				
 			if [[ $ans -eq 0 ]]; then
 
-				echo "$1 no es un numero primo"
+				echo "$1 no es un número primo"
 				exit 0
 
 			fi
