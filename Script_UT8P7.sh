@@ -14,7 +14,7 @@
 	
 		do
 	
-		read -p "Inserta un numero entero: " num 
+		read -p "Inserta un número entero: " num 
 			# Para obtener exactamente el patrón de arriba tendría que poner un 5
 
 			if [[ $num =~ $nums ]]; then
@@ -37,7 +37,7 @@
 
 			else
 
-				echo "Por favor introduce un número valido :)"
+				echo "Por favor introduce un número válido :)"
 
 			fi
 		
