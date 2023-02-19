@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Creamos un menu que pida 2 números por teclado y en función de la operación elegida
+# Creamos un menú que pida 2 números por teclado y en función de la operación elegida
 # se ejecutará la operación matemática deseada
 
-# Introduciendo el valor 0 dentro del menu se cerrará el bucle
+# Introduciendo el valor 0 dentro del menú se cerrará el bucle
 
 	function nums () {
 	
